@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from .scraper.py import get_bcv_exchange_rates
+from .scraper import get_bcv_exchange_rates
 
 app = FastAPI()
 
