@@ -1,4 +1,4 @@
-# API Tasa de Cambio Banco Central de Venezuela
+# API Tasa de Cambio Banco Central de Venezuela (BCV) 🇻🇪/🇺🇸
 Este proyecto proporciona una aplicación dockerizada que extrae las tasas de cambio del sitio web del Banco Central de Venezuela (BCV) y expone una API para acceder a estas tasas utilizando FastAPI.
 
 ## Características
